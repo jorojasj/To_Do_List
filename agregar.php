@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de gestión de tareas</title>
+    <title>Agregar Tarea</title>
 </head>
 <body>
     <h1>Agregar Nueva Tarea</h1>
